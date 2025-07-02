@@ -104,7 +104,7 @@ const Services = () => {
           {/* Premium Plan */}
           <div className="bg-white rounded-xl border shadow p-6 flex flex-col items-center w-full">
             <div className="text-orange-700 text-xs font-semibold uppercase tracking-wide mb-1">
-              ELITE PLAN
+              PERSONALIZED PLAN
             </div>
             <div className="text-4xl font-bold mb-2">VARIES</div>
             <hr className="w-full border-gray-300 mb-4" />
