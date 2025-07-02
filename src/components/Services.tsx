@@ -74,13 +74,14 @@ const Services = () => {
             <div className="text-cyan-700 text-xs font-semibold uppercase tracking-wide mb-1">
               Essentials Plan
             </div>
-            <div className="text-4xl font-bold mb-2">$199</div>
+            <div className="text-4xl font-bold mb-2">$149</div>
             <hr className="w-full border-gray-300 mb-4" />
             <ul className="space-y-2 text-muted-foreground text-sm text-center">
               <li>✔️ 5 Essay Edits</li>
               <li>✔️ 5 Live 1:1 Sessions</li>
               <li>✔️ College or Coalition App Review</li>
               <li>✔️ Text/email support until Nov 1</li>
+              <li>✔️ Limited time offer</li>
             </ul>
           </div>
 
@@ -89,13 +90,14 @@ const Services = () => {
             <div className="text-indigo-700 text-xs font-semibold uppercase tracking-wide mb-1">
               Focused Plan
             </div>
-            <div className="text-4xl font-bold mb-2">$299</div>
+            <div className="text-4xl font-bold mb-2">$249</div>
             <hr className="w-full border-gray-300 mb-4" />
             <ul className="space-y-2 text-muted-foreground text-sm text-center">
               <li>✔️ 10 Essay Edits</li>
               <li>✔️ 10 Live 1:1 Sessions</li>
               <li>✔️ Comprehensive Common/Coalition app Review</li>
               <li>✔️ Priority Text/email support until Jan 1</li>
+              <li>✔️ Limited time offer</li>
             </ul>
           </div>
 
