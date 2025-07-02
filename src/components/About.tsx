@@ -76,8 +76,8 @@ const About = () => {
                 Personal Results
               </h3>
               <p className="text-sm text-muted-foreground">
-                Scored a 1550 on the SAT and accepted into Brown, Duke, Michigan
-                Ross, and UVA.
+                Scored a 1550 on the SAT and accepted into multiple Ivy League
+                schools, Duke, Michigan Ross, and UVA.
               </p>
             </div>
             <div>

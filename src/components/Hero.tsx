@@ -23,8 +23,8 @@ const Hero = () => {
             choosing UVA, I was fortunate to be accepted to several top
             universities, including{' '}
             <strong style={{ color: '#1A237E' }}>
-              Brown University, Duke University, University of Michigan (Ross),
-              and more
+              multiple Ivy League schools, Duke University, University of
+              Michigan (Ross), and more
             </strong>
             . I bring this firsthand experience into my college counseling work,
             along with tailored SAT prep. Contact me at{' '}
