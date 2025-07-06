@@ -67,7 +67,7 @@ const About = () => {
               <p className="text-sm text-muted-foreground">
                 90% of students accepted to their top-choice schools, including{' '}
                 <strong style={{ color: '#1A237E' }}>
-                  UPenn, UVA, and UC Berekely.
+                  Stanford, UPenn, and UVA.
                 </strong>
               </p>
             </div>
