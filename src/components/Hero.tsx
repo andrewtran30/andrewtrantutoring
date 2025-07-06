@@ -35,9 +35,14 @@ const Hero = () => {
             to schedule a free consultation today!
           </p>
 
-          <Link to="/contact" className="btn-primary">
+          <a
+            href="https://calendly.com/andrewhtrantutoring/30min"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn-primary"
+          >
             Book Free Consultation
-          </Link>
+          </a>
         </div>
       </div>
     </section>

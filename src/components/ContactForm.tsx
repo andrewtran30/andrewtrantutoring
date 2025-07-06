@@ -162,6 +162,14 @@ const ContactForm = () => {
               <span className="font-medium text-foreground">Location:</span>{' '}
               Northern Virginia / Washington, D.C. area
             </div>
+            <a
+              href="https://calendly.com/andrewhtrantutoring/30min"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-primary mt-8 inline-block"
+            >
+              Book Free Consultation
+            </a>
           </div>
         </div>
       </div>

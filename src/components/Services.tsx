@@ -127,6 +127,14 @@ const Services = () => {
             </strong>{' '}
             to schedule a free consultation today!
           </p>
+          <a
+            href="https://calendly.com/andrewhtrantutoring/30min"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn-primary mt-8 inline-block"
+          >
+            Book Free Consultation
+          </a>
         </div>
       </div>
     </section>

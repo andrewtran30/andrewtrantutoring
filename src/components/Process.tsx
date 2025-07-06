@@ -52,9 +52,7 @@ const Process = () => {
           </div>
 
           <div className="mt-12 pt-8 border-t border-border">
-            <Link to="/contact" className="btn-primary">
-              Book Free Consultation
-            </Link>
+            <Link to="/contact" className="btn-primary"></Link>
           </div>
         </div>
       </div>

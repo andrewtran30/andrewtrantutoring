@@ -40,16 +40,16 @@ const About = () => {
               plans that focus on your strengths and weaknesses, ensuring you
               get the most out of our time together.
             </p>
-            {/* 
-            <p>
-              When I'm not working with students, you'll find me hiking local
-              trails, reading the latest education research, or volunteering at
-              community literacy programs. I believe that education should be
-              accessible to everyone, and I'm passionate about helping students
-              from all backgrounds achieve their goals.
-            </p> */}
           </div>
 
+          <a
+            href="https://calendly.com/andrewhtrantutoring/30min"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="btn-primary mt-8 inline-block"
+          >
+            Book Free Consultation
+          </a>
           <div className="grid sm:grid-cols-2 gap-8 mt-12 pt-8 border-t border-border">
             <div>
               <h3 className="font-medium text-foreground mb-2">Test Scores</h3>
