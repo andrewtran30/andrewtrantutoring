@@ -109,11 +109,11 @@ const Services = () => {
             <div className="text-4xl font-bold mb-2">VARIES</div>
             <hr className="w-full border-gray-300 mb-4" />
             <ul className="space-y-2 text-muted-foreground text-sm text-center">
+              <li>✔️ $100 per College Application</li>
               <li>✔️ Unlimited Essay Editing</li>
               <li>✔️ Unlimited Live 1:1 Sessions</li>
               <li>✔️ Personalized roadmap & College list strategy </li>
               <li>✔️ Parent Check-ins + Goal Alignment Meetings</li>
-              <li>✔️ Priority text/email support until Jan 1</li>
             </ul>
           </div>
         </div>
