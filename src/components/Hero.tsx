@@ -13,7 +13,7 @@ const Hero = () => {
           {/* <p className="text-xl text-muted-foreground mb-8 leading-relaxed"></p> */}
 
           <p className="text-lg text-muted-foreground mb-10 leading-relaxed">
-            I am a tutor in with{' '}
+            I am an SAT tutor and college prep counselor with{' '}
             <strong style={{ color: '#1A237E' }}>4+ years of experience</strong>{' '}
             based in Northern Virginia, and I help students improve their test
             scores and craft standout college applications. I graduated from the{' '}
