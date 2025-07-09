@@ -13,15 +13,14 @@ const Hero = () => {
           {/* <p className="text-xl text-muted-foreground mb-8 leading-relaxed"></p> */}
 
           <p className="text-lg text-muted-foreground mb-10 leading-relaxed">
-            I’m a Northern Virginia based SAT tutor and college prep counselor
-            with{' '}
+            I am a tutor in with{' '}
             <strong style={{ color: '#1A237E' }}>4+ years of experience</strong>{' '}
-            helping students improve their test scores and craft standout
-            college applications. I graduated with high distinction from the{' '}
+            based in Northern Virginia, and I help students improve their test
+            scores and craft standout college applications. I graduated from the{' '}
             <strong style={{ color: '#1A237E' }}>University of Virginia</strong>{' '}
-            with a bachelor's in Computer Science and Applied Statistics. Before
-            choosing UVA, I was fortunate to be accepted to several top
-            universities, including{' '}
+            with high distinction, receiving a Bachelor's Degree in Computer
+            Science and Applied Statistics. Before choosing UVA, I was fortunate
+            to be accepted to several top universities, including{' '}
             <strong style={{ color: '#1A237E' }}>
               multiple Ivy League schools, Duke University, University of
               Michigan (Ross), and more
