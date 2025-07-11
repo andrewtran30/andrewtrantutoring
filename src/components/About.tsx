@@ -11,7 +11,7 @@ const About = () => {
 
           <div className="space-y-6 text-muted-foreground leading-relaxed">
             <p>
-              I'm an committed{' '}
+              I'm a committed{' '}
               <strong style={{ color: '#1A237E' }}>SAT tutor</strong> and{' '}
               <strong style={{ color: '#1A237E' }}>college counselor</strong>{' '}
               with{' '}
@@ -20,10 +20,11 @@ const About = () => {
               </strong>
               . I scored a 1550 on the SAT and emphasize smart test-taking
               strategies—like time management, question prioritization, and
-              pattern recognition—so students see real improvement, fast.
-              Whether you’re aiming for a top-tier college or simply want to
-              boost your score, I’m here to help you reach your goals with
-              clarity, confidence, and care.
+              pattern recognition—so students see real improvement, fast. I've
+              also helped students get into schools like Stanford, UPenn, and
+              UMichigan. Whether you’re aiming for a top-tier college or simply
+              want to boost your score, I’m here to help you reach your goals
+              with clarity, confidence, and care.
             </p>
 
             <p>

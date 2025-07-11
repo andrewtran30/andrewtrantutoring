@@ -17,7 +17,7 @@ const Services = () => {
     {
       title: 'College Counseling',
       approach:
-        'I am more than just an essay editing service. I provide personalized guidance for every step of the college application process, creating a detailed plan with each student on selecting schools, crafting personalized narratives, and developing the entire college application.',
+        'I am more than just an essay editing service. I provide personalized guidance for every step of the college application process, creating a detailed plan with each student on selecting schools, crafting personalized narratives, and developing the entire college application. With this approach, students I have helped have been accepted to schools like Stanford, UVA, UMichigan, and more.',
       description: [
         'Common App and Coalition App Essay editing',
         'Supplemental Essay guidance',
