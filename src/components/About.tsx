@@ -1,5 +1,28 @@
 import React from 'react';
 
+const testimonials = [
+  {
+    name: 'Rohan C.',
+    text: 'Andrew helped me improve my SAT score from 1200 to 1440 in just 3 months! He helped me break down difficult topics simply, which helped me with my math section a lot.',
+  },
+  {
+    name: 'Jason T.',
+    text: 'From day one, Andrew was patient, candid, and insightful. He helped me with the hardest part: starting. Writing the supplementals and personal statement felt impossible at first, but his coaching helped me convey my unique story. Ultimately, I was accepted to Vanderbilt, and I genuinely believe Andrew played a big role in that!',
+  },
+  {
+    name: 'Kim N.',
+    text: "Andrew's approach to college counseling was super helpful. Creating the life map made the process of writing supplemental essays so much smoother, and he was so nice to work with and told me exactly what to look out for while writing essays to each school.",
+  },
+  {
+    name: 'Quan T.',
+    text: 'It felt like Andrew was my personal guidance counselor throughout the entire college app process. He responded to all my questions, even if they were short and seemingly insignificant. I felt so much more confident submitting my application, and I was able to get into Dartmouth!',
+  },
+  {
+    name: 'Chloe B.',
+    text: 'His 1:1 sessions were always tailored to exactly what I needed. I never felt like I was getting generic advice. His life map activity at the beginning helped me figure out what I wanted to write about, and it gave me direction for both my main Common App essay and supplemental essays.',
+  },
+];
+
 const About = () => {
   return (
     <section className="section-padding">
@@ -51,6 +74,29 @@ const About = () => {
           >
             Book Free Consultation
           </a>
+
+          {/* Testimonials Section */}
+          <div className="mt-16">
+            <h3 className="text-xl font-semibold text-foreground mb-4">
+              What Students Say
+            </h3>
+            <div className="overflow-x-auto">
+              <div className="flex gap-4 pb-4">
+                {testimonials.map((t, index) => (
+                  <div
+                    key={index}
+                    className="min-w-[280px] bg-muted p-4 rounded-xl shadow-sm border border-border"
+                  >
+                    <h4 className="font-medium text-foreground mb-2">
+                      {t.name}
+                    </h4>
+                    <p className="text-sm text-muted-foreground">{t.text}</p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          </div>
+
           <div className="grid sm:grid-cols-2 gap-8 mt-12 pt-8 border-t border-border">
             <div>
               <h3 className="font-medium text-foreground mb-2">Test Scores</h3>
